@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "name": "Sasikumar",
+      "email": "sasi@1gmail.com",
+      "password": "khkhkjhkj",
+      "price": "8999",
+      "location": "bangalore",
+      "members": "19",
+      "id": "d022"
+    },
+    {
+      "name": "vicky",
+      "email": "vicky34@gmail.com",
+      "password": "vic66",
+      "price": "0200",
+      "location": "chenai",
+      "members": "34",
+      "id": "0139"
+    },
+    {
+      "id": "be0b",
+      "name": "vicky",
+      "email": "vicky34@gmail.com",
+      "password": "vic66"
+    },
+    {
+      "id": "4b81",
+      "name": "dinesh",
+      "email": "ksdinesh123@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
